@@ -1,0 +1,53 @@
+.nav{
+        border-style: initial;
+        border-radius: 10px;
+        display: inline-block;
+        justify-content: center;
+        display: flex;
+        flex-wrap: wrap;
+        list-style-type: none
+        
+}
+
+.nav>li {
+    border-style: solid;
+    display: inline-block;
+    color: aquamarine;
+}
+
+.nav>li>a {
+        text-decoration: none;
+    font-family: monospace;
+    font-size: x-large;
+}
+
+body{
+    background-color: lightseagreen;
+}
+
+.mom{
+    text-align: center;
+    font-family: monospace;
+    border-style: groove;
+    border-color: lightskyblue;
+}
+
+.dad{
+    text-align: center;
+    font-family: monospace;
+    font-size: x-large;
+}
+
+
+.baby{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.dood{
+    font-family: monospace;
+    text-align: center;
+    font-size: large;
+}
